@@ -1,0 +1,22 @@
+{
+  "services": {
+    "send_data": {
+      "service": "mdi:send"
+    },
+    "receive_data": {
+      "service": "mdi:download"
+    },
+    "power_on": {
+      "service": "mdi:power"
+    },
+    "power_off": {
+      "service": "mdi:power-off"
+    },
+    "set_level": {
+      "service": "mdi:tune"
+    },
+    "get_status": {
+      "service": "mdi:information"
+    }
+  }
+}
